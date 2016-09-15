@@ -38,3 +38,27 @@
 [Science Fiction by real Scientists](https://www.humblebundle.com/books/science-fiction-by-real-scientists)
 
 [Why Adults are so busy](http://debarghyadas.com/writes/why-are-adults-so-busy/)
+
+[https://arxiv.org/abs/1609.02993] (Episodic Exploration for Deep Deterministic Policies: An Application to StarCraft Micromanagement Tasks)
+
+### Thursday 2016-09-14
+
+[Y Combinator Posthaven](http://blog.ycombinator.com/yc-changes)
+
+[A soviet scientist created the only tame foxes in the word](http://www.bbc.com/earth/story/20160912-a-soviet-scientist-created-the-only-tame-foxes-in-the-world)
+
+[YouTube Community goes beyond video](https://youtube-creators.googleblog.com/2016/09/youtube-community-goes-beyond-video.html)
+
+[Unreal CV](https://unrealcv.github.io/)
+
+[How to raise a genius: lessons from a 45-year study of super-smart children](http://www.nature.com/news/how-to-raise-a-genius-lessons-from-a-45-year-study-of-super-smart-children-1.20537)
+
+[When things Go Wrong](http://eng.localytics.com/when-things-go-wrong/)
+
+[Building a Deep Learning (Dream) Machine](http://graphific.github.io/posts/building-a-deep-learning-dream-machine/)
+
+[Someone is learning how to take down internet](https://www.lawfareblog.com/someone-learning-how-take-down-internet)
+
+[Proposed schedule change for JDK 9](http://mail.openjdk.java.net/pipermail/jdk9-dev/2016-September/004887.html)
+
+[Marc Andreessen on the atomization of AI](https://techcrunch.com/2016/09/13/marc-andreessen-on-the-atomization-of-ai/)
