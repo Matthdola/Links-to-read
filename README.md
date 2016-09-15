@@ -1,5 +1,5 @@
 # Links-to-read
-## Here are some links which are interresting to read:
+## Here are some links which are interesting to read:
 
 ### Thursday 2016-09-15
 
@@ -62,3 +62,61 @@
 [Proposed schedule change for JDK 9](http://mail.openjdk.java.net/pipermail/jdk9-dev/2016-September/004887.html)
 
 [Marc Andreessen on the atomization of AI](https://techcrunch.com/2016/09/13/marc-andreessen-on-the-atomization-of-ai/)
+
+### Thursday 2016-09-10
+
+[How the New York Times critic writes the reviews that make and break restaurants.](http://www.newyorker.com/magazine/2016/09/12/pete-wells-the-new-york-times-restaurant-critic)
+
+[Google's Self-Driving Car Project Is Losing Out to Rivals](http://www.bloomberg.com/news/articles/2016-09-12/google-car-project-loses-leaders-and-advantage-as-rivals-gain)
+
+[Ask HN: Strange bug workarounds?](https://news.ycombinator.com/item?id=12476855)
+
+[Page Accelerator](https://github.com/Easyfood/pageAccelerator)
+
+[Scalable and secure access with SSH](https://code.facebook.com/posts/365787980419535/scalable-and-secure-access-with-ssh/)
+
+[Our framework for real-time filtering of location streams](https://blog.hypertrack.io/2016/09/11/our-framework-for-real-time-filtering-of-location-streams/)
+
+[A New Phase for World of Warcraft’s Lead Designer: His Own Start-Up](http://www.nytimes.com/2016/09/12/technology/a-new-phase-for-world-of-warcrafts-lead-designer-his-own-start-up.html?_r=4)
+
+[ADVICE I WISH I'D BEEN TOLD](http://web.archive.org/web/20090502012411/http://wwwstage.valpo.edu/english/vpr/mcdonaldessay.html)
+
+[A philosopher’s 350-year-old trick to get people to change their minds is now backed up by psychologists](http://qz.com/778767/to-tell-someone-theyre-wrong-first-tell-them-how-theyre-right/)
+
+[Advancing in the Bash Shell](http://samrowe.com/wordpress/advancing-in-the-bash-shell/)
+
+[A truly decentralized P2P Insurance](https://hack.ether.camp/#/idea/a-truly-decentralized-p2p-insurance)
+
+[Little Snowballs](https://blog.nugget.one/2016/09/04/dont-start-big-start-a-little-snowball/)
+
+[New paper: “Logical induction”](https://intelligence.org/2016/09/12/new-paper-logical-induction/)
+
+[Ask HN: How can I become a proper Project Manager from a Programmer?](https://news.ycombinator.com/item?id=12477850)
+
+[An hour and a half a day of reading business books](https://medium.com/@KatAlexPas/an-hour-and-a-half-a-day-of-reading-business-books-db503a79fa0f#.513hgk2e7)
+
+[What's the difference between a Project Manager and a Product Manager?](https://www.quora.com/Whats-the-difference-between-a-Project-Manager-and-a-Product-Manager)
+
+[How I learned to program](http://danluu.com/learning-to-program/)
+
+[If your code accepts URIs as input..](https://blog.steve.fi/If_your_code_accepts_URIs_as_input__.html)
+
+[Dynamic Programming: The Name](http://learning.cis.upenn.edu/cis520_fall2009/index.php?n=Notes.DP)
+
+[Stanford Engineering Everywhere](https://see.stanford.edu/Course/EE261)
+
+[Global temperature change](http://callumprentice.github.io/apps/global_temperature_change_webgl/index.html#;)
+
+[Let’s Build A Simple Interpreter.](https://ruslanspivak.com/lsbasi-part1/)
+
+[Getting Stuck While Doing TDD. Part 3: Triangulation to the Rescue!](http://www.tddfellow.com/blog/2016/08/31/getting-stuck-while-doing-tdd-part-3-triangulation-to-the-rescue/)
+
+[Learning systems programming with Rust](http://jvns.ca/blog/2016/09/11/rustconf-keynote/)
+
+[ON GENERATIVE ALGORITHMS](http://inconvergent.net/generative/)
+
+[Why there is no Facebook killer: the death of the P2P dream](http://www.disconnectionist.com/blog/why-no-fb-killer.html)
+
+[USB Killer](https://www.usbkill.com/)
+
+[Lifelogging is dead (for now)](http://www.computerworld.com/article/3048497/personal-technology/lifelogging-is-dead-for-now.html)
