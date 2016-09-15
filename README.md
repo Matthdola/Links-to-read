@@ -120,3 +120,7 @@
 [USB Killer](https://www.usbkill.com/)
 
 [Lifelogging is dead (for now)](http://www.computerworld.com/article/3048497/personal-technology/lifelogging-is-dead-for-now.html)
+
+[Ask HN: Is web programming a series of hacks on hacks?](https://news.ycombinator.com/item?id=12477190)
+
+[All From](https://news.ycombinator.com)
